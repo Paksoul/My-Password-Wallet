@@ -1,16 +1,23 @@
-# pm
+# My Password Wallet
 
-A new Flutter project.
+A new Flutter project. Securely store, manage, and access your passwords and sensitive information all in one place with ease. 
 
-## Getting Started
+## Purpose of the app
 
-This project is a starting point for a Flutter application.
+In today's tech-driven world, we all have multiple accounts across platforms like Facebook, Gmail, LinkedIn, Instagram, and
+many more. Remembering all those login details can be a challenge, and that's where My Password Wallet comes in!
 
-A few resources to get you started if this is your first Flutter project:
+## Key Features:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Securely store and manage all your login credentials in one place
+2. Easy access to your account information whenever you need it
+3. Protect your data with robust encryption
+4. No more worrying about forgotten passwords or resetting accounts. With My Password Wallet, your login details are always safe and within reach!
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## UI
+. UI designed in **flutter**.
+. **FirebaseAuth** used for Login
+. **FirebaseFirestore** used for data 
+
+
+Check it out and simplify your digital life! 

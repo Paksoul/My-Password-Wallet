@@ -95,7 +95,7 @@ class ListScreen extends StatelessWidget {
                                 padding: const EdgeInsets.all(3.0),
                                 child: Container(
                                   decoration: BoxDecoration(
-                                    color: Color.fromRGBO(08, 134, 167, 0.5),
+                                    color: Color.fromRGBO(08, 134, 167, 0.1),
                                     borderRadius: BorderRadius.circular(10),
                                   ),
                                   child:

@@ -29,7 +29,7 @@ class SplashScreen extends StatelessWidget {
           Padding(
             padding: const EdgeInsets.all(28.0),
             child: Text(
-              'Securely store, manage, and access your passwords and sensitive information all in one place with advanced encryption and ease.',
+                'Securely store, manage, and access your passwords and sensitive information all in one place with advanced encryption and ease.',
               style: TextStyle(
                 fontSize: 16.sp,
               ),

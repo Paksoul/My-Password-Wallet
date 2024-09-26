@@ -23,7 +23,7 @@ many more. Remembering all those login details can be a challenge, and that's wh
 Check it out and simplify your digital life! 
 
 
-![App Preview](https://github.com/Paksoul/My-Password-Wallet/blob/aeb3405b6cf13c6db0e22437b2fa9fdb15ada435/splash.jpg)
-![App Preview](https://github.com/Paksoul/My-Password-Wallet/blob/aeb3405b6cf13c6db0e22437b2fa9fdb15ada435/login.jpg)
-![App Preview](https://github.com/Paksoul/My-Password-Wallet/blob/aeb3405b6cf13c6db0e22437b2fa9fdb15ada435/app_view.jpg)
+<img src="https://github.com/Paksoul/My-Password-Wallet/blob/aeb3405b6cf13c6db0e22437b2fa9fdb15ada435/splash.jpg" width="300">
+<img src="https://github.com/Paksoul/My-Password-Wallet/blob/aeb3405b6cf13c6db0e22437b2fa9fdb15ada435/login.jpg" width="300">
+<img src="https://github.com/Paksoul/My-Password-Wallet/blob/aeb3405b6cf13c6db0e22437b2fa9fdb15ada435/app_view.jpg" width="300">
 

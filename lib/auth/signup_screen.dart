@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:lottie/lottie.dart';
 import 'package:pm/auth/signup_provider.dart';
 import 'package:provider/provider.dart';
-
+//Singup Screen
 class SignUp_screen extends StatefulWidget {
   const SignUp_screen({super.key});
 

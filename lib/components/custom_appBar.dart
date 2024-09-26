@@ -1,5 +1,7 @@
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:pm/UI/logout.dart';
+import 'package:responsive_sizer/responsive_sizer.dart';
 
 class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
   @override
@@ -12,12 +14,14 @@ class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
   @override
   Widget build(BuildContext context) {
     return AppBar(
+      title:     SizedBox(width:55.w,child: Text(FirebaseAuth.instance.currentUser!.email.toString(),overflow: TextOverflow.ellipsis,style: TextStyle(fontSize: 12),)),
       actions: [
         InkWell(
           onTap: () {
             showLogoutBottomSheet(context);
           },
           child: Row(
+            mainAxisAlignment: MainAxisAlignment.start,
             children: [
               Text("Logout"),
               Icon(
